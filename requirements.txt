@@ -1,0 +1,9 @@
+langchain 
+langchain_community 
+torch 
+transformers 
+accelerate 
+bitsandbytes 
+chromadb 
+wikipedia 
+sentence-transformers
